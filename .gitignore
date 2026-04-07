@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.vscode/
+.claude/
+dados_brutos/
+dados_processados/
+*.csv
+*.pdf
