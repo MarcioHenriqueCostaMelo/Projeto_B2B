@@ -2,7 +2,6 @@ venv/
 __pycache__/
 .vscode/
 .claude/
-dados_brutos/
-dados_processados/
+dados_processados
 *.csv
 *.pdf
